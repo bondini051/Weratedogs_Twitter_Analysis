@@ -1,2 +1,3 @@
 # Weratedogs_Twitter_Analysis
-@WeRateDogs Twitter Analysis
+
+this project is a project for Udacity's Data Analyst Nanodegree.  
